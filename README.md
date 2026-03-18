@@ -1,4 +1,4 @@
-# Advanced Music Learning Video Player (Vue 3 + Video.js)
+# Working on an Advanced Music Learning Video Player (Vue 3 + Video.js)
 
 https://vue-player-ms.netlify.app/
 
