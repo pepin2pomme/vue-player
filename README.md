@@ -1,5 +1,7 @@
 # Advanced Music Learning Video Player (Vue 3 + Video.js)
 
+https://vue-player-ms.netlify.app/
+
 A custom-built video player designed for a musical learning platform. This tool provides musicians with essential features to practice and master songs effectively.
 
 ## Key Features
